@@ -15,8 +15,6 @@ while (game.main == true)
         game.Update();
     }
 } 
-string among = "abc:def:asd";
-
 
 public class Board
 {
