@@ -1,0 +1,15 @@
+F:\CS30\Projects\Complete Projects\Tic-Tac-Toe\bin\Debug\net6.0\Tic-Tac-Toe.exe
+F:\CS30\Projects\Complete Projects\Tic-Tac-Toe\bin\Debug\net6.0\Tic-Tac-Toe.deps.json
+F:\CS30\Projects\Complete Projects\Tic-Tac-Toe\bin\Debug\net6.0\Tic-Tac-Toe.runtimeconfig.json
+F:\CS30\Projects\Complete Projects\Tic-Tac-Toe\bin\Debug\net6.0\Tic-Tac-Toe.dll
+F:\CS30\Projects\Complete Projects\Tic-Tac-Toe\bin\Debug\net6.0\Tic-Tac-Toe.pdb
+F:\CS30\Projects\Complete Projects\Tic-Tac-Toe\obj\Debug\net6.0\Tic-Tac-Toe.csproj.AssemblyReference.cache
+F:\CS30\Projects\Complete Projects\Tic-Tac-Toe\obj\Debug\net6.0\Tic-Tac-Toe.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS30\Projects\Complete Projects\Tic-Tac-Toe\obj\Debug\net6.0\Tic-Tac-Toe.AssemblyInfoInputs.cache
+F:\CS30\Projects\Complete Projects\Tic-Tac-Toe\obj\Debug\net6.0\Tic-Tac-Toe.AssemblyInfo.cs
+F:\CS30\Projects\Complete Projects\Tic-Tac-Toe\obj\Debug\net6.0\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+F:\CS30\Projects\Complete Projects\Tic-Tac-Toe\obj\Debug\net6.0\Tic-Tac-Toe.dll
+F:\CS30\Projects\Complete Projects\Tic-Tac-Toe\obj\Debug\net6.0\refint\Tic-Tac-Toe.dll
+F:\CS30\Projects\Complete Projects\Tic-Tac-Toe\obj\Debug\net6.0\Tic-Tac-Toe.pdb
+F:\CS30\Projects\Complete Projects\Tic-Tac-Toe\obj\Debug\net6.0\Tic-Tac-Toe.genruntimeconfig.cache
+F:\CS30\Projects\Complete Projects\Tic-Tac-Toe\obj\Debug\net6.0\ref\Tic-Tac-Toe.dll
